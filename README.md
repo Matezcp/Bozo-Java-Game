@@ -1,14 +1,6 @@
 # Bozo-Java-Game
 Bozo is game that you roll 5 dices of 6 sides and you have many ways of make points.  
-You have this board:
- (1)    |   (7)    |   (4)   
- +--------------------------+  
- (2)    |   (8)    |   (5)   
- +--------------------------+  
- (3)    |   (9)    |   (6)   
- +--------------------------+  
-        |   (10)   |  
-        +----------+   
+You have a board with 10 positions.  
           
 Each position is a way of make points, when you full a position you cannot put another point in that position again.  
 Points in each position:  
